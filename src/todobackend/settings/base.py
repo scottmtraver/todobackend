@@ -73,7 +73,7 @@ TEMPLATES = [
 WSGI_APPLICATION = 'todobackend.wsgi.application'
 
 
-# Database
+    # Database
 # https://docs.djangoproject.com/en/2.1/ref/settings/#databases
 
 DATABASES = {
